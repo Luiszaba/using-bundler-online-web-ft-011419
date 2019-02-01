@@ -1,8 +1,8 @@
 source "https://rubygems.org"
-gem "rspec"
+gem 'rspec' , '1.4.4'
 gem 'sinatra'
-gem "hashie"
-gem "octokit"
+gem 'hashie'
+gem 'octokit'
 
 
 group :development do 
