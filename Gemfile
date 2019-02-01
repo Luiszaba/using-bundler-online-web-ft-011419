@@ -1,5 +1,5 @@
 source "https://rubygems.org"
-gem "rspec"
+gem "rspec", :group => :development
 gem "sinatra"
 gem "hashie"
 gem "octokit"
