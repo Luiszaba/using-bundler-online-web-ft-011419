@@ -6,5 +6,6 @@ gem "octokit"
 
 
 group :development do 
-  gem "pry", "rspec", "sinatra", "hashie", "octokit"
+  gem "pry", 
+  gem "rspec", "sinatra", "hashie", "octokit"
 end
