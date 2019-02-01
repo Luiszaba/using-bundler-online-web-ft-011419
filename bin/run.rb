@@ -1,6 +1,6 @@
 require_relative '../config/environment'
 
-gem Hashie
+gem "Hashie"
 gem Sinatra
 gem Octokit
 gem Pry
