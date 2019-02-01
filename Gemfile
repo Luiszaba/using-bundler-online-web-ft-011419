@@ -1,5 +1,5 @@
 source "https://rubygems.org"
-gem 'rspec' , '1.4.4'
+gem 'rspec' 
 gem 'sinatra'
 gem 'hashie'
 gem 'octokit'
